@@ -1,13 +1,13 @@
-name = "MarchCraft"
+name = "Marchcraft Packwiz"
 author = "TD"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d7b61ee9b9cf4795923f663565ca77db4ecae62ff4ff586185d960206d5c2154"
+hash = "376def1a9a4a91078450d7b93c2e9fb740857e426e3a7e929f8cab313094da06"
 
 [versions]
-forge = "47.2.0"
+fabric = "0.15.7"
 minecraft = "1.20.1"
