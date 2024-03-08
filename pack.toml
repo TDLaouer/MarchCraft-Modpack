@@ -1,0 +1,13 @@
+name = "MarchCraft"
+author = "TD"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d7b61ee9b9cf4795923f663565ca77db4ecae62ff4ff586185d960206d5c2154"
+
+[versions]
+forge = "47.2.0"
+minecraft = "1.20.1"
