@@ -26,6 +26,11 @@ hash = "d12e1ffd08b9f26a5ad78dabdc9a4a2212ca4058dd9d6347a716bd5e25139dae"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "3b45878fbe0e15944f9d4c159741548debf4d775fd9e2f9992dcd1719c08b3da"
 metafile = true
@@ -33,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/cinderscapes.pw.toml"
 hash = "29e76e233eb1851f53a82772e1f424a5e0f1e6c41ff64b013c8a517c55ebefe8"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
 metafile = true
 
 [[files]]
@@ -206,6 +216,11 @@ hash = "7907d6767fc871c8949c4ee64407796b6c9512207a0a06aa8f874357ec81f2f2"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "db5a1c7f46a9e397a88fb49ed9856ead85dc22b40611b614b71d1fe15e09c770"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
@@ -213,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/terrestria.pw.toml"
 hash = "f9e658d7bc21c911b7022ed60ccbfc07639d1ddfb515a38e78d5c836aca9890a"
+metafile = true
+
+[[files]]
+file = "mods/travelers-backpack-fabric.pw.toml"
+hash = "16fbd1c84372cc9a11b82f4576769ec1373689bdf05660a35f55f26d1b032d72"
 metafile = true
 
 [[files]]
