@@ -1,12 +1,12 @@
 name = "Marchcraft Packwiz"
 author = "TD"
-version = "1.4.0"
+version = "1.5.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "69e6aed728fa8d4c608d5e3ae3418e70400bd208e27ed329adf0a4840acd0810"
+hash = "be86834d2bafa43098d41c43ec3c78e8b91de291bab73623213564a037165627"
 
 [versions]
 fabric = "0.15.7"
