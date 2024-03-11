@@ -6,6 +6,11 @@ hash = "45d8570e9c13f5265d9d833ba2431e982ab9cf2760e86c6d5fd62dd3c092e18c"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "2ea3d87ffc2806e4bcb6ee9f5a35bdb4588b29030aba235dc7616d1833349d5b"
 metafile = true
@@ -72,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "f3094b99335cf26c368294878ae60312122a30ead29fea67b86095b75b15b4e8"
+hash = "cc457369350325e226471c9b070f7ef3e47b6ea8126e8c7c28622b2960ea3f2b"
 metafile = true
 
 [[files]]
@@ -93,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "dff6468b07150b85685e3353978bcc0194471b6b0c94a8085caec048610a966e"
+metafile = true
+
+[[files]]
+file = "mods/estrogen.pw.toml"
+hash = "9291c85bf0059c7d80e023f65816850919ea4b9c967477d0e3d1b44f811b573a"
 metafile = true
 
 [[files]]
