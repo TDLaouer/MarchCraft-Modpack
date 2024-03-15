@@ -101,6 +101,26 @@ hash = "1d327c7422c097ddef659468a367b195e299f1e40068bf95c2cd2ee6462faa67"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "a795456f4c51698e46972aa908fc7966291214de6d028e01d9d0c94121ae2c43"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "216924d46f884bd7d4e545ed39f947336ef94fcdf75eccc293ce1fef24127242"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "a55d562fcd6be9796e8cc162b83b5745efd83254fae44bf5a4d85d0fe6c97fcb"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "a8d3244d58d7722735a72eee2a869d15e5fe38ec7d9a54ff555aadd53cae637c"
 metafile = true
@@ -128,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "06859e85abd86899e44b38c090d53f5804550aca2a23924fbb6bb1867d0b859a"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "2b917cb7ce42faa92e029b4468e6dd580074e49630580b9b3b8014e14c914b07"
 metafile = true
 
 [[files]]
