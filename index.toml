@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/universal-graves/config.json"
+hash = "e697a0f6fa393594b9c27f963f02930f3b7a00d212603b82c7f7b6466c649ce1"
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "525c8448074c4402b411c2b904eff4dae542834c649d13dc00475bd2546fe286"
 metafile = true
@@ -58,11 +62,6 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "524505b468ca28db75538936dbaea65fc42d13d07e821ed8c054fe7146044535"
-metafile = true
-
-[[files]]
-file = "mods/comforts.pw.toml"
-hash = "ae3c8677a574757a519780f8c4f461763ebc19c590a42f3af0f9447bf7ef4a94"
 metafile = true
 
 [[files]]
@@ -156,13 +155,13 @@ hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
 metafile = true
 
 [[files]]
-file = "mods/gravestones.pw.toml"
-hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
+file = "mods/ferrite-core.pw.toml"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
@@ -201,6 +200,11 @@ hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "dd8dadd99d99c0535beb51accbb85be19bd2d26944c2836f816f9709f51bb59d"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "41a3116f5642d40ed54efda3f863373fa4d3c0c3a24a447a38c8a106e9fbb079"
 metafile = true
@@ -223,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "f3a2939a893321067f5700c2e25c0c48fc1f9d39dd925449865c90597d65df1b"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "6332607e5399b318c9b39b14a9c6e36428cd52dd96b65f592fff9eb15117fc3f"
 metafile = true
 
 [[files]]
@@ -271,6 +280,11 @@ hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
 
 [[files]]
+file = "mods/spiritofthelands.pw.toml"
+hash = "470487beeb693522fe70e976b53cb9cac8110be152424a4270c4b25c172ede54"
+metafile = true
+
+[[files]]
 file = "mods/terrestria.pw.toml"
 hash = "d88f78d490fbfe15149a92f5aa1c66f3349cbb35c9599cbf9c4bba88e5ffb53a"
 metafile = true
@@ -288,6 +302,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "dd2c937594cfd9064d4698bb0ea1d16cd405c232c1864737ca3b0c31fa5bb5d3"
 metafile = true
 
 [[files]]
