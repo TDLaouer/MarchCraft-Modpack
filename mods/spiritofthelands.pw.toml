@@ -3,7 +3,7 @@ filename = "spiritofthelands-1.0.0-alpha01-fabric+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://i.ferenyr.fr/spiritofthelands-1.0.0-alpha01-fabric+1.20.1.jar"
+url = "https://i.ferenyr.fr/spiritofthelands-1.0.0-alpha01-fabric1.20.1.jar"
 hash-format = "sha1"
-hash = "f7811f55d685ec7c2db41af4becce1dd01ab9af6"
+hash = "81313d0152af4f1e24d1fc353df06fd8e4b8043e"
 
