@@ -65,6 +65,11 @@ hash = "524505b468ca28db75538936dbaea65fc42d13d07e821ed8c054fe7146044535"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "5333619ce0f7e191d409fac6cd1c5981b15fd9baee160114e4a5010d9b44761d"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
@@ -262,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
+metafile = true
+
+[[files]]
+file = "mods/replanting-crops.pw.toml"
+hash = "e3c5ac18e412aae7a638a2c22aff5f16e5de5c4ec368c08b011703cf44c58d84"
 metafile = true
 
 [[files]]
