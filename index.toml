@@ -250,6 +250,11 @@ hash = "17abe74fad17a8ad23797548cd53f3ef1b1abbbf9133f03c1bac359f3939ff27"
 metafile = true
 
 [[files]]
+file = "mods/man-of-many-planes.pw.toml"
+hash = "ca0fa4fcdd36c73ff22200f8322504f1f0ee31f6a61cf4a50b130ff8378b57a7"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "50494c04a20e65d378e519e171e5284a082b268a6248f15e7804d4677fa5fa94"
 metafile = true
