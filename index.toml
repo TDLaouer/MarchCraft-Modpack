@@ -310,8 +310,9 @@ hash = "bd859d54c6dfa430eb1ee972a561cc3d2198dda8fa30b2d9c5cc854bbaec4dd5"
 metafile = true
 
 [[files]]
-file = "mods/steamlayer.toml"
+file = "mods/steamlayer.pw.toml"
 hash = "a4d691b6e502c9dc42c0e9b31e4a773b07d8c171966065d830482ea220a98b82"
+metafile = true
 
 [[files]]
 file = "mods/terrestria.pw.toml"
@@ -339,8 +340,9 @@ hash = "dd2c937594cfd9064d4698bb0ea1d16cd405c232c1864737ca3b0c31fa5bb5d3"
 metafile = true
 
 [[files]]
-file = "mods/voidheart.toml"
+file = "mods/voidheart.pw.toml"
 hash = "5b6bae677f5929f56a7d51dc7a68ce5085d04eee14d62ebd36a60ed42698d70e"
+metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
