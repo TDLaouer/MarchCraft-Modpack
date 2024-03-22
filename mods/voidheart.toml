@@ -3,6 +3,6 @@ filename = "voidheart-1.0.0.jar"
 side = "both"
 
 [download]
-url = "https://i.ferenyr.fr/voidheart-1.0.0"
+url = "https://i.ferenyr.fr/voidheart-1.0.0.jar"
 hash-format = "sha1"
 hash = "b518b72dc96b61fa297a93228a4d5258970ce3dcfffa5661101285c6731c6276"
