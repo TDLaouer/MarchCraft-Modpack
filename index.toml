@@ -170,6 +170,11 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "19cbba78c4982b15d10e44736a5fb7e992e477f6101799258d0ef7e03b288033"
+metafile = true
+
+[[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "cb202449f255e6599d6506c9c4fa0027ec244918f3e69f4e0957a2348f787216"
 metafile = true
@@ -255,6 +260,11 @@ hash = "ca0fa4fcdd36c73ff22200f8322504f1f0ee31f6a61cf4a50b130ff8378b57a7"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "50494c04a20e65d378e519e171e5284a082b268a6248f15e7804d4677fa5fa94"
 metafile = true
@@ -300,6 +310,10 @@ hash = "bd859d54c6dfa430eb1ee972a561cc3d2198dda8fa30b2d9c5cc854bbaec4dd5"
 metafile = true
 
 [[files]]
+file = "mods/steamlayer.toml"
+hash = "a4d691b6e502c9dc42c0e9b31e4a773b07d8c171966065d830482ea220a98b82"
+
+[[files]]
 file = "mods/terrestria.pw.toml"
 hash = "d88f78d490fbfe15149a92f5aa1c66f3349cbb35c9599cbf9c4bba88e5ffb53a"
 metafile = true
@@ -323,6 +337,10 @@ metafile = true
 file = "mods/universal-graves.pw.toml"
 hash = "dd2c937594cfd9064d4698bb0ea1d16cd405c232c1864737ca3b0c31fa5bb5d3"
 metafile = true
+
+[[files]]
+file = "mods/voidhearth.toml"
+hash = "e0e71cec1c864ba35f2416b4045ac699bb14da30ed27cede77a2dbf6e4e44b9c"
 
 [[files]]
 file = "mods/waystones.pw.toml"

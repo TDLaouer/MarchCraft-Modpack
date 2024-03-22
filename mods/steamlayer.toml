@@ -1,0 +1,8 @@
+name = "SteamLayer"
+filename = "steamlayer-1.6.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://i.ferenyr.fr/steamlayer-1.6.1+1.20.1.jar"
+hash-format = "sha1"
+hash = "1a17b08bcffb313c8446c0f1b2a9e233823021210b1bfe4b05b32ee7080ebb2d"
