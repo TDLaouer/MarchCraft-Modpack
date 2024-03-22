@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/steamlayer.pw.toml"
-hash = "a4d691b6e502c9dc42c0e9b31e4a773b07d8c171966065d830482ea220a98b82"
+hash = "c5d979f4c2421bb8840e982f91ea510499f81367909abab15d597a70c27d516e"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/voidheart.pw.toml"
-hash = "5b6bae677f5929f56a7d51dc7a68ce5085d04eee14d62ebd36a60ed42698d70e"
+hash = "b014bbdcb7a5336c6557b5c4abb7aef3974beb8e53b61115255fa04d84adcf4b"
 metafile = true
 
 [[files]]
