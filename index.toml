@@ -351,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/voidheart.pw.toml"
-hash = "0d17f614800bfb9e33893841f3d168a8d9ac6b6a9e5d966a04c874e64b021d33"
+hash = "0ca153dc9ab79b0f71f8a77c2711bada6d0dadca43caf183ca3543d07864128b"
 metafile = true
 
 [[files]]
