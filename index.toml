@@ -295,6 +295,11 @@ hash = "e3c5ac18e412aae7a638a2c22aff5f16e5de5c4ec368c08b011703cf44c58d84"
 metafile = true
 
 [[files]]
+file = "mods/retraining.pw.toml"
+hash = "440948def9791cf2305e40b22b30deb2b5049cb9f142e9ac8449b7a11a901fb7"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "1fe2b3aa3fb54a4c449935c7cd74c8a3af1a342e6974bf6154916908ad861d1f"
 metafile = true
