@@ -80,6 +80,11 @@ hash = "cf9852c1ccb3281ea336dfff5cfcce3e3df5b051f6ae0eba975bdd19cf25b667"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "da0b1e65c3bb9f9eabfbaf4242b3adf22267752adb3824fe62b24077cf458340"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric-sodium-fix.pw.toml"
 hash = "0dc9fad2f8048eab5f3ba5d1ee71884046fea3de7e8432df5d1ab66b6e084c85"
 metafile = true
@@ -170,6 +175,11 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
+file = "mods/friendly-griefing.pw.toml"
+hash = "a152b43dc400577a51a7ad32c74f99592ddf8ee927902543b7791c090ae00225"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "19cbba78c4982b15d10e44736a5fb7e992e477f6101799258d0ef7e03b288033"
 metafile = true
@@ -212,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "dd8dadd99d99c0535beb51accbb85be19bd2d26944c2836f816f9709f51bb59d"
+metafile = true
+
+[[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "15733da443b242fa60953e3fec16df945c545d9123bfc4b76589e8828fb11012"
 metafile = true
 
 [[files]]
@@ -302,6 +317,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "1fe2b3aa3fb54a4c449935c7cd74c8a3af1a342e6974bf6154916908ad861d1f"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "df761035026cafe3e312f1d4514f27ff08a87471436fa6eb6186925b0858856d"
 metafile = true
 
 [[files]]
