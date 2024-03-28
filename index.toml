@@ -75,6 +75,11 @@ hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
 
 [[files]]
+file = "mods/convenient-mobgriefing.pw.toml"
+hash = "318590afc60d90c39271890d5f958ffdd06a20f300353b98f064774ff1f9c042"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "cf9852c1ccb3281ea336dfff5cfcce3e3df5b051f6ae0eba975bdd19cf25b667"
 metafile = true
@@ -172,11 +177,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
-metafile = true
-
-[[files]]
-file = "mods/friendly-griefing.pw.toml"
-hash = "a152b43dc400577a51a7ad32c74f99592ddf8ee927902543b7791c090ae00225"
 metafile = true
 
 [[files]]
