@@ -55,6 +55,11 @@ hash = "f6a88dddbee551dadd9f8c8b52912a30c70bf381f152d67d97ebe0e5c6201898"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "2cf2d6c7683cbaa8d4d91374d5a92e6166176aefe5e0d7a0a2714c9321f8add0"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
@@ -100,6 +105,11 @@ hash = "cc457369350325e226471c9b070f7ef3e47b6ea8126e8c7c28622b2960ea3f2b"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "2250d424633babae3b3f240382111fe0588e30031421fb7d6ac4f3e9d27be18c"
+metafile = true
+
+[[files]]
 file = "mods/dcintegration.pw.toml"
 hash = "b3ce101677c5f2bdcac46f54def60033f3a2e0403394a19ba414d8e301093455"
 metafile = true
@@ -107,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "fe79cc78adf75a5aa3f32b2ac61a141ee7a4db1baebf628bee058a9c4381b255"
+metafile = true
+
+[[files]]
+file = "mods/doggy-talents-next.pw.toml"
+hash = "78e0e0cb7abe5eaae4e6dda432729f4947324747a887f6d11bb666191a5e5512"
 metafile = true
 
 [[files]]
