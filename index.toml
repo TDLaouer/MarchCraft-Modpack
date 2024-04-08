@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/doggy-talents-next.pw.toml"
-hash = "78e0e0cb7abe5eaae4e6dda432729f4947324747a887f6d11bb666191a5e5512"
+hash = "bec6eb7f738699a80c6d1e939fc47fc36caf98faea62f07ae38ed4598f351018"
 metafile = true
 
 [[files]]
@@ -200,6 +200,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
@@ -350,6 +355,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "5003f2c451c9459b7911ac786897eead4d74a8ebdad4741476949791b26c3caa"
+metafile = true
+
+[[files]]
+file = "mods/silence-mobs.pw.toml"
+hash = "5ea330180267e53c8e66c8ae3291f7de8b1d121aa3e18cf98418c177a74172cb"
 metafile = true
 
 [[files]]
