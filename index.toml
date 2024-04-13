@@ -416,3 +416,8 @@ metafile = true
 file = "mods/waystones.pw.toml"
 hash = "086f56d0a3c8f1a7b289b9949d7de08362f717295d89f0db0d13421ec860a453"
 metafile = true
+
+[[files]]
+file = "mods/zombify.pw.toml"
+hash = "95e6445acecb4fd470a5688db2eba029251568bf8f63ebec9cea6dda62bffe2e"
+metafile = true
